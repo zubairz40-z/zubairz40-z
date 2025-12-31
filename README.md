@@ -7,7 +7,7 @@
 📧 zahirzubair740@gmail.com | 📞 01954273593  
 🔗 LinkedIn: https://www.linkedin.com/in/zubair-ibne-zahir-9b7b24256  
 🐙 GitHub: https://github.com/zubairz40-z  
-
+🔗 Portfolio: https://portfolio-zubairz.netlify.app
 ---
 
 ## 👋 About Me
