@@ -8,8 +8,8 @@
 I am a 3rd-year CSE student from North South University passionate about building responsive and user-friendly web applications.  
 I enjoy turning ideas into real projects and continuously learning modern web technologies like React, Node.js, and Next.js.
 
-⚡ Skills
 
+⚡ Skills
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -41,7 +41,7 @@ I enjoy turning ideas into real projects and continuously learning modern web te
 - Learning Mern technologies.
 - UI/UX improvements for web apps
 
-  🔭 I’m currently working on
+ 🔭 I’m currently working on
 - Tourism Website project  
 - Portfolio website to showcase my projects
 
