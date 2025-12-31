@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**zubairz40-z/zubairz40-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://github.com/zubairz40-z/zubairz40-z/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner%20(1).png?raw=true)
 
 Here are some ideas to get you started:
 
