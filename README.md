@@ -4,6 +4,7 @@
 **Junior MERN & Frontend Developer | React | Node.js | MongoDB | Learning Next.js**  
 
 🔹 About Me
+
 I am a 3rd-year CSE student from North South University passionate about building responsive and user-friendly web applications.  
 I enjoy turning ideas into real projects and continuously learning modern web technologies like React, Node.js, and Next.js.
 
@@ -16,7 +17,7 @@ I enjoy turning ideas into real projects and continuously learning modern web te
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-### Backend
+### Backend Basics
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -28,10 +29,25 @@ I enjoy turning ideas into real projects and continuously learning modern web te
 
 ---
 
+📫 How to reach me
+- Email: [zahirzubair740@gmail.com](mailto:zahirzubair740@gmail.com)  
+- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
+- GitHub: [github.com/zubairz40-z](https://github.com/zubairz40-z)
+
+
 
 🌱 I’m currently learning
 - Next.js for modern frontend and mernstack development projects.
 - Learning Mern technologies.
 - UI/UX improvements for web apps
 
+  🔭 I’m currently working on
+- Tourism Website project  
+- Portfolio website to showcase my projects
+
+  
+
+👯 I’m looking to collaborate on
+- Open-source React/Next.js projects  
+- Frontend or Full Stack projects to improve real-world skills  
 
