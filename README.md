@@ -56,8 +56,7 @@ Currently, I am focusing on improving frontend architecture while exploring Next
 
 ## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubairz40-z&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairz40-z&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=zubairz40-z&theme=radical)
+
 
 ---
 
