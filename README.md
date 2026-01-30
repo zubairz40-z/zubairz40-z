@@ -137,7 +137,7 @@ A full-stack car rental platform allowing users to manage vehicle listings and b
 🔗 **Live Site:** [https://zeutex-bike-shop.vercel.app](https://zeutex-bike-shop.vercel.app)
 🔗 **Repository:** [https://github.com/zubairz40-z/Zeutex-Bike-Shop.git](https://github.com/zubairz40-z/Zeutex-Bike-Shop.git)
 
-![Zeutex Screenshot](https://github.com/zubairz40-z/zubairz40-z/blob/main/Screenshot%202026-01-30%20123045.png?raw=true)
+![Zeutex Screenshot](https://github.com/zubairz40-z/zubairz40-z/blob/main/Screenshot%202026-01-30%20191811.png)
 
 **Project Overview**
 A modern, responsive web platform for electric bikes. Users can explore models, view specifications, schedule test rides, and submit trade requests for old bikes.
