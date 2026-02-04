@@ -58,30 +58,16 @@ Currently, I am focusing on improving frontend architecture while exploring Next
 
 ---
 ## 📊 GitHub Statistics
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- Productive Time Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zubairz40-z&theme=radical&utcOffset=6" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubairz40-z&show_icons=true&theme=radical&hide_border=true"/>
-</p>
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zubairz40-z&theme=radical" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zubairz40-z&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairz40-z&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zubairz40-z&theme=radical&utcOffset=6"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zubairz40-z&theme=radical"/>
-</p>
-
-
-
-
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zubairz40-z&show_icons=true&theme=radical" />
+</div>
 ---
 
 ## 📂 Featured Projects
