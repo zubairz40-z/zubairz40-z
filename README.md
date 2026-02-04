@@ -60,7 +60,22 @@ Currently, I am focusing on improving frontend architecture while exploring Next
 
 ## 📊 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zubairz40-z\&theme=radical)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zubairz40-z&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zubairz40-z&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairz40-z&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zubairz40-z&theme=radical"/>
+</p>
 
 ---
 
