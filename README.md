@@ -62,7 +62,7 @@ Currently, I am focusing on improving frontend architecture while exploring Next
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zubairz40-z&theme=radical&utcOffset=6" width="300" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zubairz40-z&theme=radical" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=zubairz40-z&show_icons=true&theme=radical&hide_border=true&count_private=true" width="300" />
+  
 </p>
 
 ## 📂 Featured Projects
