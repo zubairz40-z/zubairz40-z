@@ -60,18 +60,25 @@ Currently, I am focusing on improving frontend architecture while exploring Next
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zubairz40-z&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=zubairz40-z&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zubairz40-z&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairz40-z&layout=compact&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zubairz40-z&theme=radical&utcOffset=6" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=zubairz40-z&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairz40-z&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zubairz40-z&theme=radical&utcOffset=6"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zubairz40-z&theme=radical"/>
 </p>
+
 
 
 
